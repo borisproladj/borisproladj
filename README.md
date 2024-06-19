@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Boris Ladyjensky 👋
 
-<!--
-**borisproladj/borisproladj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Passionate Full Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building scalable and efficient applications that make a difference. Here's a little about what I'm up to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm currently learning:
+- **Flutter:** Expanding my mobile development skills to build cross-platform apps.
+
+### 🔭 I’m currently working on:
+- **Mood2Music:** A responsive application that provides music based on your mood.
+
+### 👨‍💻 My portfolio:
+- Check out my projects and more about me on [My Portfolio](https://borisladj.vercel.app/)
+
+### 📫 How to reach me:
+- **Email:** ladjboris@gmail.com
+
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/boris-ladyjensky-411b65256/)
+
+### 🛠 Languages and Tools:
+- **Frontend:** JavaScript (ES6+), HTML5, CSS3, React, Next, TailwindCSS, DaisyUI
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, GCS
+- **DevOps/Tools:** PostmanAPI, Git
+
+### 📈 My GitHub Stats:
+![Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisproladj&show_icons=true&theme=radical)
+
+---
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
+
