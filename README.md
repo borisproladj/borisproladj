@@ -25,8 +25,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable and efficie
 - **Databases:** MongoDB, GCS
 - **DevOps/Tools:** PostmanAPI, Git
 
-### 📈 My GitHub Stats:
-![Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisproladj&show_icons=true&theme=radical)
+![Boris's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=borisproladj&layout=donut)
 
 ---
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
